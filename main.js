@@ -1,7 +1,3 @@
-// Created by Bad_Bit
-
-
-
 var count = 0;
 
 function throwMe(card){
